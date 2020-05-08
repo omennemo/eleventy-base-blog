@@ -6,7 +6,7 @@ tags:
   - blogposts
 layout: layouts/post.njk
 ---
-Writing blogs is a challenge for me. I think this comes with the territory when you possibly have impostro syndrome. 
+Writing blogs is a challenge for me. I think this comes with the territory when you possibly have impostor syndrome. 
 I thought the response to the blog will help me with this. 
 
 ## Why do it?
