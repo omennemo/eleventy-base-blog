@@ -1,5 +1,5 @@
 ---
-title: PiHole - A guide
+title: PiHole : A guide
 description: This is a post on My Blog about installing pihole.
 date: 2020-05-08
 tags:
