@@ -1,7 +1,7 @@
 ---
 title: Missing Semester
 description: This is a post on My Blog about the missing semester at your CS degree
-date: 2020-05-08
+date: 2020-05-31
 tags:
   - blogposts
 layout: layouts/post.njk
