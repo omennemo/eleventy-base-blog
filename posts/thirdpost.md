@@ -1,7 +1,7 @@
 ---
 title: PiHole - A guide
 description: This is a post on My Blog about installing pihole.
-date: 2020-05-08
+date: 2020-05-12
 tags:
   - blogposts
 layout: layouts/post.njk
