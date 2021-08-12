@@ -1,4 +1,4 @@
-I have used the below instructions to setup this blog. I intend on leaving it here for instructions to my future self :)
+I have used the below instructions to setup this [blog](https://theytoldmetowriteablog.netlify.app/). I intend on leaving it here for instructions to my future self :)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5c910f86-da91-4639-a192-f2c69efc2665/deploy-status)](https://app.netlify.com/sites/theytoldmetowriteablog/deploys)
 
