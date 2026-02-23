@@ -1,4 +1,4 @@
-module.exports = function(collection) {
+export default function(collection) {
   let tagSet = new Set();
   collection.getAll().forEach(function(item) {
     if( "tags" in item.data ) {
