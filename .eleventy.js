@@ -5,7 +5,7 @@ import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
 import markdownIt from "markdown-it";
 import markdownItAnchor from "markdown-it-anchor";
-import getTagList from "./_11ty/getTagList.cjs";
+import getTagList from "./_11ty/getTagList.js";
 
 export default function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
